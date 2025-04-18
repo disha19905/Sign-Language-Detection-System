@@ -3,7 +3,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import cv2
 import numpy as np
 
-# ✅ Set your actual dataset path
+# Set your actual dataset path
 DATASET_PATH = "C:/Users/DELL/sign-language-detector/SignLanguageDataset/mini_asl_alphabet"
 
 # Image size and batch size
